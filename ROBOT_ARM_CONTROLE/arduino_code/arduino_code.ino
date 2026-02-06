@@ -7,7 +7,7 @@
 #define HOME_POS 90
 
 Servo servos[NUM_SERVOS];
-int pins[NUM_SERVOS] = { 4, 5, 6, 7, 8, 9 };
+int pins[NUM_SERVOS] = { 4, 5, 6, 7, 8, 9 }; // change it your servo control pins from Base of robot to end effector
 
 int currentPos[NUM_SERVOS] = { HOME_POS, HOME_POS, HOME_POS, HOME_POS, HOME_POS, HOME_POS };
 int targetPos[NUM_SERVOS] = { HOME_POS, HOME_POS, HOME_POS, HOME_POS, HOME_POS, HOME_POS };
