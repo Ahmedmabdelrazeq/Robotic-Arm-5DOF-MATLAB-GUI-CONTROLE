@@ -117,8 +117,9 @@ This flexibility allows seamless hardware upgrades in future versions.
 ---
 
 ## 📷 Demo
-\Docs\images\robotic_arm_demo.png
 
+![Robot Arm](Docs/Images/Robot_Arm.png)
+![Hardware setup](Docs/Images/wiring_diagram.png)
 ---
 
 ## 🔮 Future Improvements
